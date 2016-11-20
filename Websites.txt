@@ -1,0 +1,10 @@
+List of Pokemon with moves (will need to parse)
+http://www.angelfire.com/nb/rpg/moves.html
+http://www.ign.com/faqs/2010/pokemon-blue-version-pokemon-list-503020
+
+Pokemon with max stats
+http://www.psypokes.com/rby/maxstats.php
+
+All moves
+http://www.psypokes.com/rby/attacks.php
+http://pokemondb.net/move/generation/1
